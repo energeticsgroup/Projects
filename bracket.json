@@ -24,6 +24,13 @@
         {"name": "Challenger Right 5"},
         {"name": "Challenger Right 6"}
       ]
+    },
+    {
+      "name": "Challenger Right 3",
+      "challengers": [
+        {"name": "Challenger Right 7"},
+        {"name": "Challenger Right 8"}
+      ]
     }
   ]
 }
