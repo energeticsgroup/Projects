@@ -8,7 +8,12 @@
         {"name": "Winner Left 4"}
       ]
     },
-    {"name": "Winner Left 2"}
+    {"name": "Winner Left 2",
+     "winners": [
+        {"name": "Winner Left 5"},
+        {"name": "Winner Left 6"}
+      ]
+    }
   ],
   "challengers": [
     {
@@ -24,13 +29,7 @@
         {"name": "Challenger Right 5"},
         {"name": "Challenger Right 6"}
       ]
-    },
-    {
-      "name": "Challenger Right 3",
-      "challengers": [
-        {"name": "Challenger Right 7"},
-        {"name": "Challenger Right 8"}
-      ]
     }
+   
   ]
 }
